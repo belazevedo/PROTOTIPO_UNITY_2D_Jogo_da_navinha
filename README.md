@@ -8,18 +8,20 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 
 ## 📑 O que aprendi nesse projeto:
 
--  Criar um projeto novo 2D no Unity
 -  Importar e organizar assets (sprites, sons e cenas)
--  Configurar Rigidbody2D e Colliders para objetos no Unity
--  Programar movimentação da bolinha usando C#
--  Detectar colisões com obstáculos e plataformas
--  Implementar troca de cenas
--  Organizar hierarquia de objetos e estrutura de pastas no Unity
+-  Criar e configurar prefabs de inimigos, tiros e power-ups
+-  Adicionar fundo infinito, configurar animações (com Animator) e efeitos sonoros
+-  Programar movimentação da nave do joagador e inimigos
+-  Detectar colisões entre: jogador e inimigos; tiros e inimigos; jogador e power-ups
+-  Programar disparo de projetéis (tiros do jogador e dos inimigos)
+-  Criação de ciclo de onda de inimigos (spawn controlado por tempo e posição) 
+-  Criação de HUD com: sistema de pontuação, barra de vida e escudo, menu de game over e reinício
+-  Programar dropagem aleatória de itens (power-ups) por inimigos destruídos
 
 ---
 
 
-# Preview 📷
+# Preview 🎥
 
 ![Jogo da bolinha gameplay](preview_navinha.gif)
 
