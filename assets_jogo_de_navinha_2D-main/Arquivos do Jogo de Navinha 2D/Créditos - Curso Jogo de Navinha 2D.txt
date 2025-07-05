@@ -1,0 +1,31 @@
+Créditos do Curso do "Jogo de Navinha 2D"
+
+-----\\-----
+
+GRÁFICOS:
+
+Superpowers Asset Packs - Sparklin Labs (https://github.com/sparklinlabs/superpowers-asset-packs)
+
+UI Pack Fixed - Kenney (https://www.kenney.nl/assets/ui-pack)
+
+MÚSICAS E EFEITOS SONOROS:
+
+Som da Explosão do Inimigo [Soundpack 03] - crazyduckgames - https://opengameart.org/content/soundpack-03
+
+Som de Impacto [Retro video game sfx - Hit 2] - OwlStorm - https://freesound.org/people/OwlStorm/sounds/404792/
+
+Som do Laser do Jogador [8-bit Laser] - timgormly (https://freesound.org/people/timgormly/sounds/170161/)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Música de Fundo [Fast fight / battle music (looped) ] - XCVG (https://opengameart.org/content/fast-fight-battle-music-looped)
+
+Música de Game Over [game over] - Leszek_Szary (https://freesound.org/people/Leszek_Szary/sounds/133283/)
+
+FONT:
+
+Upheavtt
+
+-----//-----
+
+Curso do canal Desenvolvendo Jogos: https://www.youtube.com/c/DesenvolvendoJogos
