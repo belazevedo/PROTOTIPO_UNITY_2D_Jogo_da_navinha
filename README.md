@@ -10,7 +10,7 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 
 -  Importar e organizar assets (sprites, sons e cenas)
 -  Criar e configurar prefabs de inimigos, tiros e power-ups
--  Adicionar fundo infinito, configurar animações (com Animator) e efeitos sonoros
+-  Adicionar fundo infinito, configurar animações e efeitos sonoros
 -  Programar movimentação da nave do joagador e inimigos
 -  Detectar colisões entre: jogador e inimigos; tiros e inimigos; jogador e power-ups
 -  Programar disparo de projetéis (tiros do jogador e dos inimigos)
@@ -23,5 +23,5 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 
 # Preview 🎥
 
-![Jogo da bolinha gameplay](preview_navinha.gif)
+![Jogo da navinha gameplay](preview_navinha.gif)
 
