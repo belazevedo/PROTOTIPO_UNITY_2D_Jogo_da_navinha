@@ -8,15 +8,15 @@ Este projeto teve como objetivo exercitar conceitos básicos de desenvolvimento 
 
 ## 📑 O que aprendi nesse projeto:
 
--  Importar e organizar assets (sprites, sons e cenas)
--  Criar e configurar prefabs de inimigos, tiros e power-ups
--  Adicionar fundo infinito, configurar animações e efeitos sonoros
--  Programar movimentação da nave do joagador e inimigos
--  Detectar colisões entre: jogador e inimigos; tiros e inimigos; jogador e power-ups
--  Programar disparo de projetéis (tiros do jogador e dos inimigos)
--  Criação de ciclo de onda de inimigos (spawn controlado por tempo e posição) 
--  Criação de HUD com: sistema de pontuação, barra de vida e escudo, menu de game over e reinício
--  Programar dropagem aleatória de itens (power-ups) por inimigos destruídos
+☞  Importar e organizar assets (sprites, sons e cenas)           
+☞  Criar e configurar prefabs de inimigos, tiros e power-ups   
+☞  Adicionar fundo infinito, configurar animações e efeitos sonoros   
+☞  Programar movimentação da nave do joagador e inimigos   
+☞  Detectar colisões entre: jogador e inimigos; tiros e inimigos; jogador e power-ups   
+☞  Programar disparo de projetéis (tiros do jogador e dos inimigos)   
+☞  Criação de ciclo de onda de inimigos (spawn controlado por tempo e posição)    
+☞  Criação de HUD com: sistema de pontuação, barra de vida e escudo, menu de game over e reinício   
+☞ Programar dropagem aleatória de itens (power-ups) por inimigos destruídos
 
 ---
 
